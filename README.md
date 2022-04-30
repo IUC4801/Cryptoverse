@@ -55,4 +55,4 @@ Nodejs should be installed in the device. Along with Nodejs, any code editor sho
 * [Firebase](https://firebase.google.com/)
 
 ## Demo
-The site is live at:[https://cryptoverse101.netlify.app/](https://cryptoverse101.netlify.app/) 
+The site is live at: [https://cryptoverse101.netlify.app/](https://cryptoverse101.netlify.app/) 
