@@ -2,7 +2,7 @@
 
 ## About The Project
 
-Cryptoverse is a crypto currency tracker application which is used to easily track various cryptocurrencies. Famous cryptocurrencies will be shown in a carrousel bar. Details of other cryptocurriencies are shown in a table. The information can be shown in various currencies like USD, EUR etc. Details of each cryptocureency is shown with a graph of their capital changes over a time period.
+Cryptoverse is a crypto currency tracker application which is used to easily track various cryptocurrencies. Famous cryptocurrencies will be shown in a carrousel bar. Details of other cryptocurriencies are shown in a table. The information can be shown in various currencies like USD, EUR etc. Details of each cryptocurrency is shown with a graph of their capital changes over a time period.
 
 ## Features
 
